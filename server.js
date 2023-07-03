@@ -28,6 +28,7 @@ const options = {
     servers: [
       {
         url: "http://localhost:8080",
+          url: "https://nodejs-jobs-api-7zkm.onrender.com"
       },
     ],
 
